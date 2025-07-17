@@ -6,13 +6,17 @@
 ## :hammer: ETL
 
 - `EXTRACCIÓN DE DATOS`: Se extrajeron los datos mediante una API request al servidor en donde se encuentran los datos, mediante el uso de las librerias `json` `requests`, y se convierteron y explotaron los datos a través de la biblioteca `pandas`.
+<p align="center"><img src="https://github.com/user-attachments/assets/97a97b59-d860-468f-bbba-463cc92cd833"></p>
 
 - `TRANSFORMACIÓN DE DATOS`: La transformación de datos se realizo mediante la biblioteca `pandas`, haciendo uso de una estrategia de encontrar los valores de las columnas mediante el uso del metodo `.unique()`, luego al tener la estructura de los datos, se inicio con la estandarización de los datos mediante el uso de metodos como `.replace()` o `.map()` para facilitar la siguiente fase del proyecto.
+<p align="center"><img src="https://github.com/user-attachments/assets/1274de31-3f96-409c-9dc3-304132c7deeb"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/204ceaa5-a8bc-4aa3-a021-86a32daa1558"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/4a92aba6-5bba-4a1f-aa70-d6a8a60c8632"></p>
 
 - `CARGA DE DATOS`: Haciendo uso de las bibliotecas `matplotlib` y `seaborn` se realizaron todos los gráficos que relacionaran los datos del DataFrame con la variable `Churn`, para lograr identificar cuales son los datos que influyen más en el aumento de evasión de los clientes.
+<p align="center"><img src="https://github.com/user-attachments/assets/063ee8ec-8fcc-4f60-b621-1b015337788e"></p>
 
 - `INFORME FINAL`: Al final del notebook se encuentra el informe final en donde se encuentran los gráficos seleccionados para el análisis exploratorio de los datos. A través de los cuales se encuentran las sugerencias realizadas a la empresa `TELECOM X` para aumentar la retención de los clientes.
-
 
 
 
