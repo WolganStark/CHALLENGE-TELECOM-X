@@ -1,6 +1,7 @@
 # CHALLENGE-TELECOM-X
-<p align="center"><img src="https://github.com/user-attachments/assets/bb3ea1e2-61c8-4399-8800-3e250d9bb4b5"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e3c92cdb-099d-4aab-9cea-6c2795a15b2f"></p>
 <p align="center">La empresa de telecomunicaciones `TELECOM X` solicitó nuestros serivicios como Cientificos de Datos, para análizar la evasión de los clientes que ha presentado</p>
+
 
 ## :hammer: ETL
 
